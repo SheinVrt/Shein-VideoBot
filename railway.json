@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS",
+    "config": {}
+  },
+  "deploy": {
+    "startCommand": "python schedule.py"
+  }
+}
